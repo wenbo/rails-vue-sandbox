@@ -11,6 +11,12 @@ module.exports = merge(sharedConfig, {
     pathinfo: true
   },
 
+  resolve: {
+    alias: {
+      vue: 'vue/dist/vue.js'
+    }
+  },
+
   devServer: {
     clientLogLevel: 'none',
     https: settings.dev_server.https,

@@ -1,5 +1,7 @@
 # README
 
+- Rails 5.1で作るVue.jsアプリケーション[http://qiita.com/jnchito/items/30ab14ebf29b945559f6]
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
